@@ -101,24 +101,3 @@ Full log is available in the [jupyter notebook file](AntPyBulletEnv-SAC_lr0001-s
 └── dir_ant_lr0001-sc2500/  # Saved model checkpoints
 ```
 
-### Other SAC projects
-
-* [BipedalWalker](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/BipedalWalker-Soft-Actor-Critic)
-* [HopperBulletEnv](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/HopperBulletEnv-v0-SAC)
-* [MinitaurBulletEnv](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/Minitaur-Soft-Actor-Critic)
-* [MinitaurBulletDuckEnv](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/MinitaurDuck-Soft-Actor-Critic)
-* [Walker2dBulletEnv](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/Walker2DBulletEnv-v0_SAC)
-
-### Videos
-
-See videos [Martian Ant](https://www.youtube.com/watch?v=s7aMZ1bbQgk&t=18s) and
-[Chessboard chase with four Pybullet actors](https://www.youtube.com/watch?v=NXX4GTim_NM) on youtube.
-
-### Articles on Soft Actor-Critic
-
-* [Entropy in Soft Actor-Critic (Part 1)](https://towardsdatascience.com/entropy-in-soft-actor-critic-part-1-92c2cd3a3515)
-* [Entropy in Soft Actor-Critic (Part 2)](https://towardsdatascience.com/entropy-in-soft-actor-critic-part-2-59821bdd5671)
-
-### Credit
-
-The code is based on [Pranjal Tandon's code](https://github.com/pranz24).
